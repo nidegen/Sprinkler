@@ -1,3 +1,5 @@
+#include <Sprinkler.h>
+
 void setup() {
   // put your setup code here, to run once:
   // initialize digital pin LED_BUILTIN as an output.
